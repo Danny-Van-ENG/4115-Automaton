@@ -2,7 +2,7 @@
 
 Neccessary libraries / packages:
 - numpy
-- portaudio
+- portaudio (needs to be installed prior to pyaudio)
 - pyaudio
 - speechrecognition
 
