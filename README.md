@@ -1,4 +1,4 @@
-# 4115-Automaton-HW5
+# 4115-Final-Project-Automaton
 
 Neccessary libraries / packages:
 - numpy
